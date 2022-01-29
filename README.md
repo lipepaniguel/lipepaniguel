@@ -7,18 +7,10 @@ So far, I'm learning:
 
 <br>
 
-<hr>
-
-<br>
-
 ### WakaTime
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-<br>
-
-<hr>
 
 <br>
 
