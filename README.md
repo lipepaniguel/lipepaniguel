@@ -1,4 +1,4 @@
-<img height="200" width="750" src="header_lipepaniguel.jpg">
+<img height="200" width="800" src="header_lipepaniguel.jpg">
 
 <br>
 
