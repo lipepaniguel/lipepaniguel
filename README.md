@@ -1,6 +1,4 @@
-<img height="200" width="800" src="header_lipepaniguel.jpg">
-
-<br>
+<img height="300" width="900" src="header_lipepaniguel.jpg">
 
 Hello there!  
 I'm Filipe Paniguel and I'm actually a beginner in programming.
