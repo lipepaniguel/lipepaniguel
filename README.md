@@ -1,3 +1,5 @@
+![ocean](header_lipepaniguel.jpg)
+
 Hello there!  
 I'm Filipe Paniguel and I'm actually a beginner in programming.
 
