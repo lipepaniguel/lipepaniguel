@@ -10,6 +10,12 @@ So far, I'm learning:
 ### WakaTime
 
 <!--START_SECTION:waka-->
+```text
+Python     22 hrs 38 mins  █████████████████░░░░░░░░   67.75 % 
+Markdown   7 hrs 57 mins   ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+HTML       2 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+CSS        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+```
 <!--END_SECTION:waka-->
 
 <br>
