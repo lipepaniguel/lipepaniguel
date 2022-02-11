@@ -13,13 +13,13 @@ So far, I'm learning:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 February, 2022 - 09 February, 2022
+Week: 04 February, 2022 - 10 February, 2022
 
-Markdown   6 hrs 8 mins    ███████████▒░░░░░░░░░░░░░   45.46 % 
-Python     3 hrs 46 mins   ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-HTML       2 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.48 % 
-CSS        1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Python     3 hrs 25 mins   █████████▓░░░░░░░░░░░░░░░   38.12 % 
+HTML       2 hrs 21 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.22 % 
+Markdown   1 hr 59 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.10 % 
+CSS        1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 <!--END_SECTION:waka-->
 
