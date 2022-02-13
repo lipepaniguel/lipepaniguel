@@ -13,12 +13,10 @@ So far, I'm learning:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 February, 2022 - 11 February, 2022
+Week: 06 February, 2022 - 12 February, 2022
 
-Python     3 hrs 8 mins    ███████████████▓░░░░░░░░░   63.16 % 
-CSS        50 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Markdown   39 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-HTML       20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Python     3 hrs 10 mins   ████████████████████▓░░░░   83.26 % 
+Markdown   38 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
 ```
 <!--END_SECTION:waka-->
 
