@@ -13,10 +13,10 @@ So far, I'm learning:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 February, 2022 - 20 February, 2022
+From: 14 February, 2022 - To: 21 February, 2022
 
-Python     18 hrs 38 mins  ████████████████████████▒   97.77 % 
-Markdown   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Python     13 hrs 59 mins  ████████████████████████▓   98.00 % 
+Markdown   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 ```
 <!--END_SECTION:waka-->
 
