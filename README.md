@@ -13,11 +13,11 @@ So far, I'm learning:
 
 <!--START_SECTION:waka-->
 ```text
-From: 18 February, 2022 - To: 25 February, 2022
+From: 19 February, 2022 - To: 26 February, 2022
 
-Python     12 hrs 17 mins  ███████████████████████░░   91.52 % 
-Markdown   1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-CSV        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Python     10 hrs 33 mins  ███████████████████████░░   91.66 % 
+Markdown   52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+CSV        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 <!--END_SECTION:waka-->
 
