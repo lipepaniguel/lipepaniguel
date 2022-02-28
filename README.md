@@ -12,13 +12,16 @@ So far, I'm learning:
 ### WakaTime
 
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-Python     10 hrs 33 mins  ███████████████████████░░   91.66 % 
-Markdown   52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-CSV        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Python     10 hrs 33 mins  ███████████████████████░░   91.66 %
+Markdown   52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+CSV        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+SQL        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
+
 <!--END_SECTION:waka-->
 
 <br>
