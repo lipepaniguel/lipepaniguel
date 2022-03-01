@@ -15,12 +15,18 @@ So far, I'm learning:
 ### WakaTime
 
 <!--START_SECTION:waka-->
+
 ```text
-Python     22 hrs 38 mins  █████████████████░░░░░░░░   67.75 % 
-Markdown   7 hrs 57 mins   ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
-HTML       2 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-CSS        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+From: 21 February 2022 - To: 28 February 2022
+
+Python     10 hrs 33 mins  █████████████████████▒░░░   84.74 %
+Markdown   52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
+C++        48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+JSON       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+CSV        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+SQL        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
+
 <!--END_SECTION:waka-->
 
 <br>
