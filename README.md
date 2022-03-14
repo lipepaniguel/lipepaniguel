@@ -14,12 +14,11 @@ So far, I'm learning:
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 March 2022 - To: 12 March 2022
+From: 06 March 2022 - To: 13 March 2022
 
-Python    19 hrs 53 mins  ███████████████████████▓░   94.91 %
-C++       1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
-RPMSpec   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Other     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python   21 hrs 18 mins  ████████████████████████░   95.47 %
+C++      1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
