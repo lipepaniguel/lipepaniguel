@@ -14,12 +14,9 @@ So far, I'm learning:
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 March 2022 - To: 22 March 2022
+From: 16 March 2022 - To: 23 March 2022
 
-Markdown   17 mins         ████████████░░░░░░░░░░░░░   47.67 %
-Python     11 mins         ████████░░░░░░░░░░░░░░░░░   32.25 %
-C#         7 mins          █████░░░░░░░░░░░░░░░░░░░░   19.58 %
-XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+C#   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
