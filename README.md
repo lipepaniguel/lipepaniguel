@@ -14,9 +14,12 @@ So far, I'm learning:
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 March 2022 - To: 24 March 2022
+From: 18 March 2022 - To: 25 March 2022
 
-C#   1 min           █████████████████████████   100.00 %
+C#       1 hr 33 mins    █████████████████████▒░░░   84.76 %
+Python   13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
+JSON     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
