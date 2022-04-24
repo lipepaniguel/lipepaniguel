@@ -14,7 +14,7 @@ So far, I'm learning:
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 April 2022 - To: 22 April 2022
+From: 16 April 2022 - To: 23 April 2022
 
 C#      5 hrs 21 mins   ███████████████████████░░   92.54 %
 Other   25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
