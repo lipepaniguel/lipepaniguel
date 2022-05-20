@@ -14,7 +14,9 @@ So far, I'm learning:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 12 May 2022 - To: 19 May 2022
+
+Python   6 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
