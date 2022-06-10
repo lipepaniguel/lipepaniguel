@@ -14,10 +14,10 @@ So far, I'm learning:
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 June 2022 - To: 08 June 2022
+From: 02 June 2022 - To: 09 June 2022
 
-C#       38 hrs 4 mins   ███████████████████████▒░   93.01 %
-Other    2 hrs 41 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+C#       37 hrs 50 mins  ███████████████████████░░   92.27 %
+Other    3 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
 ```
 
 <!--END_SECTION:waka-->
