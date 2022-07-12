@@ -14,7 +14,10 @@ So far, I'm learning:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 04 July 2022 - To: 11 July 2022
+
+C#      29 mins         ██████████████████▓░░░░░░   74.12 %
+Other   10 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.88 %
 ```
 
 <!--END_SECTION:waka-->
